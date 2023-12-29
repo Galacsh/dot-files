@@ -1,0 +1,14 @@
+Catppuccin.catppuccin-vsc
+Catppuccin.catppuccin-vsc-icons
+esbenp.prettier-vscode
+GitHub.copilot
+GitHub.copilot-chat
+Gruntfuggly.todo-tree
+mhutchie.git-graph
+mikestead.dotenv
+ms-azuretools.vscode-docker
+redhat.vscode-yaml
+VisualStudioExptTeam.intellicode-api-usage-examples
+VisualStudioExptTeam.vscodeintellicode
+vscodevim.vim
+waderyan.gitblame

@@ -1,6 +1,6 @@
 This repository contains configuration files (or starters) for my personal use.
 
-# Setup
+# Clone
 
 First, clone this repository with recursive option.
 
@@ -9,23 +9,13 @@ git clone --recursive https://github.com/Galacsh/dot-files
 cd dot-files
 ```
 
-## Obsidian starter
-
-To use Obsidian starter to create a new vault:
-
-> [!TIP]
-> [See this repository](https://github.com/Galacsh/lindir) for more information about **Lindir**.
+## Directory overview
 
 ```shell
-# Initialization for Lindir
-lindir init
-
-# Link to a new vault
-lindir link <new-vault-directory>
-
-# Sync
-lindir sync
+├── obsidian/
+└── vscode/
 ```
 
-Then, open that directory as a vault with Obsidian.
+- obsidian: Obsidian starter
+- vscode: Visual Studio Code configuration files
 
