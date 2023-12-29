@@ -14,8 +14,10 @@ cd dot-files
 ```shell
 ├── obsidian/
 └── vscode/
+└── neovim/
 ```
 
 - obsidian: Obsidian starter
 - vscode: Visual Studio Code configuration files
+- neovim: Neovim configuration files
 
