@@ -1,0 +1,11 @@
+IdeaVIM
+com.github.copilot
+com.github.catppuccin.jetbrains
+com.github.catppuccin.jetbrains_icons
+Key Promoter X
+com.intellij.plugins.vscodekeymap
+String Manipulation
+izhangzhihao.rainbow.brackets
+com.haulmont.jpab
+zielu.gittoolbox
+mobi.hsz.idea.gitignore

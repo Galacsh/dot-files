@@ -1,0 +1,10 @@
+<keymap version="1" name="VSCode Galacsh (macOS)" parent="VSCode OSX">
+  <action id="Console.TableResult.SelectRow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="copilot.disposeInlays" />
+</keymap>
