@@ -18,10 +18,12 @@ cd dot-files
 ├── intellij/
 ├── neovim/
 └── obsidian/
+└── vim/
 └── vscode/
 ```
 
-- intellij: IntelliJ IDEA configuration files
-- neovim: Neovim configuration files (Submodule)
-- obsidian: Obsidian starter (Submodule)
-- vscode: Visual Studio Code configuration files
+- `intellij`: IntelliJ IDEA configuration files
+- `neovim`: Neovim configuration files (Submodule)
+- `obsidian`: Obsidian starter (Submodule)
+- `vim`: Vim configuration file
+- `vscode`: Visual Studio Code configuration files
