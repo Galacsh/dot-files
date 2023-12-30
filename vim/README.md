@@ -3,5 +3,5 @@
 ## Installation
 
 ```shell
-ln -s .vimrc ~/.vimrc
+ln .vimrc ~/.vimrc
 ```
